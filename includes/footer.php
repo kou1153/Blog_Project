@@ -28,7 +28,7 @@
         <!-- Section: Text -->
         <section class="mb-4">
             <p>
-                Oh god i want to die so badly!
+                Depressed blog for depressed people
             </p>
         </section>
         <!-- Section: Text -->
